@@ -1,5 +1,4 @@
-# Minify
-Example :
+## Example :
 
 ``` php
 <?php
