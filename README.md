@@ -1,6 +1,6 @@
 ## On your index
 ``` php
-<?php include='main-minify.php';?>
+<?php include 'main-minify.php';?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -10,7 +10,7 @@
     <h1>Hello World</h1>
   </body>
 </html>
-<?php include='end-minify.php';?>
+<?php include 'end-minify.php';?>
 ```
 
 ## Example :
